@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="MXEydzNlOi9UZXN0aW5XaXphcmRUdXRvcmlhbA" level="project" />
+    <orderEntry type="library" name="dependency18" level="project" />
+    <orderEntry type="library" name="dependency14" level="project" />
+    <orderEntry type="library" name="dependency5" level="project" />
+    <orderEntry type="library" name="dependency16" level="project" />
+    <orderEntry type="library" name="dependency22" level="project" />
+    <orderEntry type="library" name="dependency26" level="project" />
+    <orderEntry type="library" name="MXEydzNlOi9Xc28yV2ViQXBwbGljYXRpb25EZXZlbG9wbWVudA" level="project" />
+    <orderEntry type="library" name="dependency20" level="project" />
+    <orderEntry type="library" name="dependency24" level="project" />
+    <orderEntry type="library" name="dependency2" level="project" />
+    <orderEntry type="library" name="dependency8" level="project" />
+    <orderEntry type="library" name="dependency27" level="project" />
+    <orderEntry type="library" name="MXEydzNlOi9jb2RlbnZ5LWV4dC13c28yLWNtZi1lZGl0b3I" level="project" />
+    <orderEntry type="library" name="dependency15" level="project" />
+    <orderEntry type="library" name="lib3" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="dependency3" level="project" />
+    <orderEntry type="library" name="dependency13" level="project" />
+    <orderEntry type="library" name="dependency17" level="project" />
+    <orderEntry type="library" name="dependency10" level="project" />
+    <orderEntry type="library" name="dependency25" level="project" />
+    <orderEntry type="library" name="dependency21" level="project" />
+    <orderEntry type="library" name="dependency1" level="project" />
+    <orderEntry type="library" name="dependency11" level="project" />
+    <orderEntry type="library" name="dependency19" level="project" />
+    <orderEntry type="library" name="codenvy-sdk-tools" level="project" />
+    <orderEntry type="library" name="lib4" level="project" />
+    <orderEntry type="library" name="dependency9" level="project" />
+    <orderEntry type="library" name="dependency6" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="dependency12" level="project" />
+    <orderEntry type="library" name="MXEydzNlOi9jb2RlbnZ5LWV4dC13c28yLWNvcmU" level="project" />
+    <orderEntry type="library" name="MXEydzNlOi9UZXN0aW5nV2l6YXJkQVBJU2FtcGxl" level="project" />
+    <orderEntry type="library" name="dependency23" level="project" />
+    <orderEntry type="library" name="dependency4" level="project" />
+    <orderEntry type="library" name="MXEydzNlOi9Ob0NoYW5nZXNQZXJtaXR0ZWQ" level="project" />
+    <orderEntry type="library" name="MXEydzNlOi9XQV9Qcm9qZWN0X1dpemFyZA" level="project" />
+    <orderEntry type="library" name="dependency7" level="project" />
+    <orderEntry type="library" name="MXEydzNlOi9Gb3JUZXN0aW5nVGhlTmV4dEJ1dHRvbg" level="project" />
+    <orderEntry type="library" name="dependency" level="project" />
+    <orderEntry type="module" module-name="target52" />
+  </component>
+</module>
+
